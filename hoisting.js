@@ -11,11 +11,18 @@
 // }
 
 
-{
+
  
-    x=5;
-    console.log(x);
-    (strict)
-}
-var x;
+//     x=5;
+//     console.log(x);
+//     (strict)
+// }
+// var x;
 // console.log(x);
+
+x=5;
+
+var x;
+
+// in js  var x:   and then x=5;
+
