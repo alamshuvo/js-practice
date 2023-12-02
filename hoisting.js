@@ -20,9 +20,18 @@
 // var x;
 // console.log(x);
 
-x=5;
+// x=5;
 
-var x;
+// var x;
 
 // in js  var x:   and then x=5;
+
+setTimeout(function(){
+    console.log(2);
+});
+console.log(3);
+console.log(1);
+
+
+
 
